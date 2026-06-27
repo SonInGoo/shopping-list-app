@@ -1,7 +1,7 @@
 {
   "name": "shopping-list-app",
   "version": "1.0.0",
-  "description": "바닐라 JS로 만든 쇼핑 리스트 앱",
+  "description": "Supabase 연동 쇼핑 리스트 앱",
   "main": "index.html",
   "directories": {
     "test": "tests"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "playwright test"
   },
-  "keywords": ["shopping-list", "vanilla-js", "playwright"],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
